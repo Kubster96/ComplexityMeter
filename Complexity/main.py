@@ -6,7 +6,7 @@ import tkinter
 import logging
 from argparse import ArgumentParser
 import math
-import ClassNotFoundException
+import Complexity.ClassNotFoundException
 # Loads module of the class and the class
 
 
@@ -45,7 +45,7 @@ def my_import(name):
     for comp in components[1:]:
         mod = getattr(mod, comp)
     if mod is None:
-        raise ClassNotFoundException
+        raise Complexity.ClassNotFoundException
     return mod
 
 # TO DO tutaj bedzie mierzenie czasów

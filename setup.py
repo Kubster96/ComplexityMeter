@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='Complexity',
-      version='0.1',
+      version='0.2',
       description='Jakub Jungiewicz - zadanie nr 2',
       url='https://github.com/Kubster96/Complexity',
       author='Jakub Jungiewicz',
