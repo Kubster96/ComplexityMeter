@@ -1,5 +1,5 @@
 from random import randint
-
+import time
 
 class Template:
 
@@ -12,9 +12,7 @@ class Template:
             self.table.append(randint(0, 100))
 
     def function(self):
-        for i in range(0, self.n):
-            for a in range(0, self.n):
-                self.table.append(5)
+        time.sleep(0.00000000000000001)
 
     def clean_up(self):
         self.table = []

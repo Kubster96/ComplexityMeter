@@ -81,3 +81,3939 @@ DEBUG:root:Calculated cube approximation
 DEBUG:root:Calculated logarithmic approximation
 DEBUG:root:Calculated n_logarithmic approximation
 DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015638060867283565
+DEBUG:root:Time no. 1 is 0.0006051106499803619
+DEBUG:root:Time no. 2 is 0.0013050373321665696
+DEBUG:root:Time no. 3 is 0.0023180544540324964
+DEBUG:root:Time no. 4 is 0.003678071915985094
+DEBUG:root:Time no. 5 is 0.005113810514768748
+DEBUG:root:Time no. 6 is 0.006974245924474423
+DEBUG:root:Time no. 7 is 0.00948489544392504
+DEBUG:root:Time no. 8 is 0.014275080404324528
+DEBUG:root:Time no. 9 is 0.017116927591827515
+DEBUG:root:Time no. 10 is 0.020642898789482403
+DEBUG:root:Time no. 11 is 0.024395704175296407
+DEBUG:root:Time no. 12 is 0.028195588354879286
+DEBUG:root:Time no. 13 is 0.03278428924684135
+DEBUG:root:Time no. 14 is 0.05031406164556518
+DEBUG:root:Time no. 15 is 0.04289404868078964
+DEBUG:root:Time no. 16 is 0.05036344499567236
+DEBUG:root:Time no. 17 is 0.057102626173636484
+DEBUG:root:Time no. 18 is 0.06466683852072502
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001544052746685472
+DEBUG:root:Time no. 1 is 0.0006107074296591793
+DEBUG:root:Time no. 2 is 0.0013198523371987325
+DEBUG:root:Time no. 3 is 0.002319700565702737
+DEBUG:root:Time no. 4 is 0.0036892654753427285
+DEBUG:root:Time no. 5 is 0.005227062997681286
+DEBUG:root:Time no. 6 is 0.007158610431541344
+DEBUG:root:Time no. 7 is 0.009659383280970518
+DEBUG:root:Time no. 8 is 0.02042725816068091
+DEBUG:root:Time no. 9 is 0.017798088600972983
+DEBUG:root:Time no. 10 is 0.02142183883184015
+DEBUG:root:Time no. 11 is 0.025419256411851873
+DEBUG:root:Time no. 12 is 0.030496523247541277
+DEBUG:root:Time no. 13 is 0.03359417618859964
+DEBUG:root:Time no. 14 is 0.04289668245946204
+DEBUG:root:Time no. 15 is 0.04737180164617749
+DEBUG:root:Time no. 16 is 0.050536286721047596
+DEBUG:root:Time no. 17 is 0.057206989653529716
+DEBUG:root:Time no. 18 is 0.06476000844126067
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00016658650102832596
+DEBUG:root:Time no. 1 is 0.0005870034216077178
+DEBUG:root:Time no. 2 is 0.0013284121178839825
+DEBUG:root:Time no. 3 is 0.002336490904739188
+DEBUG:root:Time no. 4 is 0.003636589901895037
+DEBUG:root:Time no. 5 is 0.005459493965519228
+DEBUG:root:Time no. 6 is 0.0071500506508560945
+DEBUG:root:Time no. 7 is 0.010033709074783178
+DEBUG:root:Time no. 8 is 0.014745539119679234
+DEBUG:root:Time no. 9 is 0.017685165340394493
+DEBUG:root:Time no. 10 is 0.021185786418327676
+DEBUG:root:Time no. 11 is 0.0258344057750865
+DEBUG:root:Time no. 12 is 0.029915775050280466
+DEBUG:root:Time no. 13 is 0.03362380619866395
+DEBUG:root:Time no. 14 is 0.04130522169667364
+DEBUG:root:Time no. 15 is 0.04500798528771233
+DEBUG:root:Time no. 16 is 0.050947156193939636
+DEBUG:root:Time no. 17 is 0.057231681328583306
+DEBUG:root:Time no. 18 is 0.06605615677040794
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001583559426771241
+DEBUG:root:Time no. 1 is 0.0006235471006870541
+DEBUG:root:Time no. 2 is 0.0018038091682494029
+DEBUG:root:Time no. 3 is 0.0029995446855120116
+DEBUG:root:Time no. 4 is 0.003562514876734221
+DEBUG:root:Time no. 5 is 0.005571429559095575
+DEBUG:root:Time no. 6 is 0.00788783790145783
+DEBUG:root:Time no. 7 is 0.009173451115915564
+DEBUG:root:Time no. 8 is 0.014392283555245647
+DEBUG:root:Time no. 9 is 0.017051741569686002
+DEBUG:root:Time no. 10 is 0.02094742944847687
+DEBUG:root:Time no. 11 is 0.024217594892576397
+DEBUG:root:Time no. 12 is 0.028623577389141786
+DEBUG:root:Time no. 13 is 0.03273325978506392
+DEBUG:root:Time no. 14 is 0.03861547522750086
+DEBUG:root:Time no. 15 is 0.04293816447355209
+DEBUG:root:Time no. 16 is 0.054443497381530204
+DEBUG:root:Time no. 17 is 0.054311479225576886
+DEBUG:root:Time no. 18 is 0.06139371007561906
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00016033127668141256
+DEBUG:root:Time no. 1 is 0.0006798441198092749
+DEBUG:root:Time no. 2 is 0.0016599390082703944
+DEBUG:root:Time no. 3 is 0.0023269434570517946
+DEBUG:root:Time no. 4 is 0.0035246543083186912
+DEBUG:root:Time no. 5 is 0.005078583725025605
+DEBUG:root:Time no. 6 is 0.007014740271562335
+DEBUG:root:Time no. 7 is 0.009135919769834078
+DEBUG:root:Time no. 8 is 0.014192116376144419
+DEBUG:root:Time no. 9 is 0.01710441714313369
+DEBUG:root:Time no. 10 is 0.020487835070145746
+DEBUG:root:Time no. 11 is 0.024466486977116744
+DEBUG:root:Time no. 12 is 0.028464892224130622
+DEBUG:root:Time no. 13 is 0.0328817390577196
+DEBUG:root:Time no. 14 is 0.037730854815913706
+DEBUG:root:Time no. 15 is 0.04631466873154916
+DEBUG:root:Time no. 16 is 0.04924441828224296
+DEBUG:root:Time no. 17 is 0.054880046196477905
+DEBUG:root:Time no. 18 is 0.06070991528780123
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001596728320133164
+DEBUG:root:Time no. 1 is 0.0005978677586313042
+DEBUG:root:Time no. 2 is 0.0013247906722094536
+DEBUG:root:Time no. 3 is 0.0023473552417627745
+DEBUG:root:Time no. 4 is 0.0036984837006960748
+DEBUG:root:Time no. 5 is 0.005031834153590778
+DEBUG:root:Time no. 6 is 0.006927496353039592
+DEBUG:root:Time no. 7 is 0.009173780338249612
+DEBUG:root:Time no. 8 is 0.014146025249377685
+DEBUG:root:Time no. 9 is 0.016996432217565922
+DEBUG:root:Time no. 10 is 0.02001737635479106
+DEBUG:root:Time no. 11 is 0.024280476358379585
+DEBUG:root:Time no. 12 is 0.02846653833580086
+DEBUG:root:Time no. 13 is 0.03296634919756994
+DEBUG:root:Time no. 14 is 0.04148859853673839
+DEBUG:root:Time no. 15 is 0.042952321033916135
+DEBUG:root:Time no. 16 is 0.047884400820290385
+DEBUG:root:Time no. 17 is 0.05576038671772243
+DEBUG:root:Time no. 18 is 0.060373120840070016
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015605138633878758
+DEBUG:root:Time no. 1 is 0.0005735053059117468
+DEBUG:root:Time no. 2 is 0.0013099756671772905
+DEBUG:root:Time no. 3 is 0.002293033556644843
+DEBUG:root:Time no. 4 is 0.003686631696670345
+DEBUG:root:Time no. 5 is 0.005229696776353671
+DEBUG:root:Time no. 6 is 0.006964698476787027
+DEBUG:root:Time no. 7 is 0.009271559371461888
+DEBUG:root:Time no. 8 is 0.014334340424453182
+DEBUG:root:Time no. 9 is 0.017126475039514914
+DEBUG:root:Time no. 10 is 0.02056717765265134
+DEBUG:root:Time no. 11 is 0.02416557776379681
+DEBUG:root:Time no. 12 is 0.028786542444495578
+DEBUG:root:Time no. 13 is 0.03305589767243103
+DEBUG:root:Time no. 14 is 0.038236540321011536
+DEBUG:root:Time no. 15 is 0.043816529660792386
+DEBUG:root:Time no. 16 is 0.048580047612133914
+DEBUG:root:Time no. 17 is 0.05497420378401563
+DEBUG:root:Time no. 18 is 0.06144638564906674
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015934360967926833
+DEBUG:root:Time no. 1 is 0.0005945755352908236
+DEBUG:root:Time no. 2 is 0.001320181559532781
+DEBUG:root:Time no. 3 is 0.0023368201270732364
+DEBUG:root:Time no. 4 is 0.0035704162127513737
+DEBUG:root:Time no. 5 is 0.005184922538923133
+DEBUG:root:Time no. 6 is 0.006945932803746285
+DEBUG:root:Time no. 7 is 0.009177731006258186
+DEBUG:root:Time no. 8 is 0.014266849845973331
+DEBUG:root:Time no. 9 is 0.017296024541549673
+DEBUG:root:Time no. 10 is 0.02044306083271523
+DEBUG:root:Time no. 11 is 0.024321299927801535
+DEBUG:root:Time no. 12 is 0.028434274547064153
+DEBUG:root:Time no. 13 is 0.03386545539185523
+DEBUG:root:Time no. 14 is 0.04289339023612154
+DEBUG:root:Time no. 15 is 0.044419994199102475
+DEBUG:root:Time no. 16 is 0.049019230205754105
+DEBUG:root:Time no. 17 is 0.05602475225196307
+DEBUG:root:Time no. 18 is 0.06842359457454761
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001544052746685472
+DEBUG:root:Time no. 1 is 0.0005939170906227272
+DEBUG:root:Time no. 2 is 0.0012925268834727425
+DEBUG:root:Time no. 3 is 0.0023815943645037747
+DEBUG:root:Time no. 4 is 0.003560868765063979
+DEBUG:root:Time no. 5 is 0.005258668341749902
+DEBUG:root:Time no. 6 is 0.00716914554623088
+DEBUG:root:Time no. 7 is 0.009957329493284029
+DEBUG:root:Time no. 8 is 0.014316233196080545
+DEBUG:root:Time no. 9 is 0.017321703883605412
+DEBUG:root:Time no. 10 is 0.020825946407213136
+DEBUG:root:Time no. 11 is 0.0248668213353192
+DEBUG:root:Time no. 12 is 0.02850703268288876
+DEBUG:root:Time no. 13 is 0.032708238887676266
+DEBUG:root:Time no. 14 is 0.038706669814032174
+DEBUG:root:Time no. 15 is 0.04451513945364238
+DEBUG:root:Time no. 16 is 0.05027159196447295
+DEBUG:root:Time no. 17 is 0.05809556073312544
+DEBUG:root:Time no. 18 is 0.07070510534950081
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001632942776878452
+DEBUG:root:Time no. 1 is 0.0006126827636634677
+DEBUG:root:Time no. 2 is 0.0014670147205182221
+DEBUG:root:Time no. 3 is 0.0024454634973091016
+DEBUG:root:Time no. 4 is 0.003804164069925506
+DEBUG:root:Time no. 5 is 0.005344924593270498
+DEBUG:root:Time no. 6 is 0.007431206524133149
+DEBUG:root:Time no. 7 is 0.00956357958176253
+DEBUG:root:Time no. 8 is 0.014857145490921528
+DEBUG:root:Time no. 9 is 0.018271181095000075
+DEBUG:root:Time no. 10 is 0.021369163258392457
+DEBUG:root:Time no. 11 is 0.025145014207589814
+DEBUG:root:Time no. 12 is 0.0296994759768109
+DEBUG:root:Time no. 13 is 0.03365179009705804
+DEBUG:root:Time no. 14 is 0.040607270348491736
+DEBUG:root:Time no. 15 is 0.044704442295720015
+DEBUG:root:Time no. 16 is 0.05211852925848265
+DEBUG:root:Time no. 17 is 0.0574446881787124
+DEBUG:root:Time no. 18 is 0.0654668487924619
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015605138633878758
+DEBUG:root:Time no. 1 is 0.0006558108894237655
+DEBUG:root:Time no. 2 is 0.0016372226672210768
+DEBUG:root:Time no. 3 is 0.002390154145189025
+DEBUG:root:Time no. 4 is 0.004098488836564486
+DEBUG:root:Time no. 5 is 0.00520763887997245
+DEBUG:root:Time no. 6 is 0.0072172120070019
+DEBUG:root:Time no. 7 is 0.009846052344375782
+DEBUG:root:Time no. 8 is 0.01737800090272764
+DEBUG:root:Time no. 9 is 0.017311168768915884
+DEBUG:root:Time no. 10 is 0.02106825404507251
+DEBUG:root:Time no. 11 is 0.02464229170349841
+DEBUG:root:Time no. 12 is 0.02833847084785615
+DEBUG:root:Time no. 13 is 0.032974908978255196
+DEBUG:root:Time no. 14 is 0.03817036663186785
+DEBUG:root:Time no. 15 is 0.04287956289809153
+DEBUG:root:Time no. 16 is 0.04989627850365819
+DEBUG:root:Time no. 17 is 0.054914614541553
+DEBUG:root:Time no. 18 is 0.06835314099506135
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015670983100688371
+DEBUG:root:Time no. 1 is 0.0005985262032994004
+DEBUG:root:Time no. 2 is 0.0013521161259354441
+DEBUG:root:Time no. 3 is 0.002303897893668429
+DEBUG:root:Time no. 4 is 0.0036533802409314878
+DEBUG:root:Time no. 5 is 0.0056609780339566505
+DEBUG:root:Time no. 6 is 0.007079597071369806
+DEBUG:root:Time no. 7 is 0.009316333608892429
+DEBUG:root:Time no. 8 is 0.01427903107233311
+DEBUG:root:Time no. 9 is 0.01717256616628164
+DEBUG:root:Time no. 10 is 0.020534913863914636
+DEBUG:root:Time no. 11 is 0.025306991595941478
+DEBUG:root:Time no. 12 is 0.029073624319785524
+DEBUG:root:Time no. 13 is 0.03314149547928352
+DEBUG:root:Time no. 14 is 0.03783093840546428
+DEBUG:root:Time no. 15 is 0.04362623915171257
+DEBUG:root:Time no. 16 is 0.0498715868286046
+DEBUG:root:Time no. 17 is 0.05568565324789354
+DEBUG:root:Time no. 18 is 0.06234285806467965
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00020181329077146999
+DEBUG:root:Time no. 1 is 0.0006060983169825062
+DEBUG:root:Time no. 2 is 0.0015081675122742316
+DEBUG:root:Time no. 3 is 0.002393446368529505
+DEBUG:root:Time no. 4 is 0.003654367907933633
+DEBUG:root:Time no. 5 is 0.005360727265304805
+DEBUG:root:Time no. 6 is 0.007203055446637834
+DEBUG:root:Time no. 7 is 0.009364729291997498
+DEBUG:root:Time no. 8 is 0.014587183177002111
+DEBUG:root:Time no. 9 is 0.017310839546581837
+DEBUG:root:Time no. 10 is 0.02088421876033965
+DEBUG:root:Time no. 11 is 0.024561632231656638
+DEBUG:root:Time no. 12 is 0.028293696610425606
+DEBUG:root:Time no. 13 is 0.0330825646814889
+DEBUG:root:Time no. 14 is 0.03827374244475895
+DEBUG:root:Time no. 15 is 0.04237387739299367
+DEBUG:root:Time no. 16 is 0.047854770810226044
+DEBUG:root:Time no. 17 is 0.054606462436883996
+DEBUG:root:Time no. 18 is 0.0629657467206986
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015769749800902794
+DEBUG:root:Time no. 1 is 0.0011216604921017916
+DEBUG:root:Time no. 2 is 0.0013494823472630596
+DEBUG:root:Time no. 3 is 0.0026304864490441196
+DEBUG:root:Time no. 4 is 0.003593461776134739
+DEBUG:root:Time no. 5 is 0.006919595017022441
+DEBUG:root:Time no. 6 is 0.009653457278957656
+DEBUG:root:Time no. 7 is 0.010736927980309868
+DEBUG:root:Time no. 8 is 0.014556565499935635
+DEBUG:root:Time no. 9 is 0.017174541500285925
+DEBUG:root:Time no. 10 is 0.020591540105370898
+DEBUG:root:Time no. 11 is 0.024372329389578992
+DEBUG:root:Time no. 12 is 0.028245300927320555
+DEBUG:root:Time no. 13 is 0.032806347143222586
+DEBUG:root:Time no. 14 is 0.043018494723059825
+DEBUG:root:Time no. 15 is 0.06014365287323856
+DEBUG:root:Time no. 16 is 0.049467301802393504
+DEBUG:root:Time no. 17 is 0.05489420275684198
+DEBUG:root:Time no. 18 is 0.07021950240677988
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015440527466854717
+DEBUG:root:Time no. 1 is 0.000604781427646314
+DEBUG:root:Time no. 2 is 0.0013066834438368096
+DEBUG:root:Time no. 3 is 0.002696660138187783
+DEBUG:root:Time no. 4 is 0.0040922336122175725
+DEBUG:root:Time no. 5 is 0.005090106506717288
+DEBUG:root:Time no. 6 is 0.010461039664377586
+DEBUG:root:Time no. 7 is 0.009217566908678004
+DEBUG:root:Time no. 8 is 0.014345863206144872
+DEBUG:root:Time no. 9 is 0.017388536017417175
+DEBUG:root:Time no. 10 is 0.020488164292479807
+DEBUG:root:Time no. 11 is 0.02424228656763
+DEBUG:root:Time no. 12 is 0.02848596245350969
+DEBUG:root:Time no. 13 is 0.033221167284123165
+DEBUG:root:Time no. 14 is 0.04101978593305394
+DEBUG:root:Time no. 15 is 0.05832502869995698
+DEBUG:root:Time no. 16 is 0.04872786844012156
+DEBUG:root:Time no. 17 is 0.05531791190076185
+DEBUG:root:Time no. 18 is 0.061685401063585665
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015506371933664335
+DEBUG:root:Time no. 1 is 0.0005975385362972562
+DEBUG:root:Time no. 2 is 0.0012889054377982138
+DEBUG:root:Time no. 3 is 0.0024431589409707652
+DEBUG:root:Time no. 4 is 0.0035858896624516327
+DEBUG:root:Time no. 5 is 0.0050904357290513375
+DEBUG:root:Time no. 6 is 0.006925850241369352
+DEBUG:root:Time no. 7 is 0.009207031793988463
+DEBUG:root:Time no. 8 is 0.016362020779855282
+DEBUG:root:Time no. 9 is 0.035586300531924527
+DEBUG:root:Time no. 10 is 0.02129706356723593
+DEBUG:root:Time no. 11 is 0.0244292848533693
+DEBUG:root:Time no. 12 is 0.028906379374089103
+DEBUG:root:Time no. 13 is 0.03304700866941171
+DEBUG:root:Time no. 14 is 0.038769880502169424
+DEBUG:root:Time no. 15 is 0.04301948239006198
+DEBUG:root:Time no. 16 is 0.07174281414642036
+DEBUG:root:Time no. 17 is 0.05417123051127243
+DEBUG:root:Time no. 18 is 0.06118234933716021
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001557221640047395
+DEBUG:root:Time no. 1 is 0.0006008307596377368
+DEBUG:root:Time no. 2 is 0.0016296505535379714
+DEBUG:root:Time no. 3 is 0.0030462942569468385
+DEBUG:root:Time no. 4 is 0.008135083874327936
+DEBUG:root:Time no. 5 is 0.013974500413338638
+DEBUG:root:Time no. 6 is 0.02194991145565326
+DEBUG:root:Time no. 7 is 0.009286045154160004
+DEBUG:root:Time no. 8 is 0.015989341097712856
+DEBUG:root:Time no. 9 is 0.020807180734172384
+DEBUG:root:Time no. 10 is 0.0228911581086967
+DEBUG:root:Time no. 11 is 0.027108825430186584
+DEBUG:root:Time no. 12 is 0.03166197031007148
+DEBUG:root:Time no. 13 is 0.03450414671990851
+DEBUG:root:Time no. 14 is 0.03833925768923452
+DEBUG:root:Time no. 15 is 0.05051521649166851
+DEBUG:root:Time no. 16 is 0.052927428533238785
+DEBUG:root:Time no. 17 is 0.054114933492150186
+DEBUG:root:Time no. 18 is 0.06290023147622303
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015638060867283565
+DEBUG:root:Time no. 1 is 0.000592600201286535
+DEBUG:root:Time no. 2 is 0.0013152432245220596
+DEBUG:root:Time no. 3 is 0.0023312233473944195
+DEBUG:root:Time no. 4 is 0.0038054809592617004
+DEBUG:root:Time no. 5 is 0.0052405611133772585
+DEBUG:root:Time no. 6 is 0.007254743353083381
+DEBUG:root:Time no. 7 is 0.009353535732639858
+DEBUG:root:Time no. 8 is 0.014444300684025246
+DEBUG:root:Time no. 9 is 0.017562365409794563
+DEBUG:root:Time no. 10 is 0.02046775250776882
+DEBUG:root:Time no. 11 is 0.024596529799065722
+DEBUG:root:Time no. 12 is 0.02867658218492354
+DEBUG:root:Time no. 13 is 0.03347368081433802
+DEBUG:root:Time no. 14 is 0.03845876539649398
+DEBUG:root:Time no. 15 is 0.04312022442428068
+DEBUG:root:Time no. 16 is 0.04880951557896546
+DEBUG:root:Time no. 17 is 0.05465815034332949
+DEBUG:root:Time no. 18 is 0.06163963915915299
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015638060867283565
+DEBUG:root:Time no. 1 is 0.0005846988652693811
+DEBUG:root:Time no. 2 is 0.0013033912204963292
+DEBUG:root:Time no. 3 is 0.002366450137137563
+DEBUG:root:Time no. 4 is 0.003621116452194778
+DEBUG:root:Time no. 5 is 0.005188543984597662
+DEBUG:root:Time no. 6 is 0.006959760141776307
+DEBUG:root:Time no. 7 is 0.009103655981097369
+DEBUG:root:Time no. 8 is 0.015091222570429712
+DEBUG:root:Time no. 9 is 0.017321045438937324
+DEBUG:root:Time no. 10 is 0.020238613763271365
+DEBUG:root:Time no. 11 is 0.024454634973091013
+DEBUG:root:Time no. 12 is 0.028536662692953088
+DEBUG:root:Time no. 13 is 0.03255317516833961
+DEBUG:root:Time no. 14 is 0.03699734745565458
+DEBUG:root:Time no. 15 is 0.04224712679438519
+DEBUG:root:Time no. 16 is 0.048351896534638616
+DEBUG:root:Time no. 17 is 0.05416793828793193
+DEBUG:root:Time no. 18 is 0.06035896427970594
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001557221640047395
+DEBUG:root:Time no. 1 is 0.0005840404206012851
+DEBUG:root:Time no. 2 is 0.0013103048895113387
+DEBUG:root:Time no. 3 is 0.002408919818229765
+DEBUG:root:Time no. 4 is 0.0035131315266270086
+DEBUG:root:Time no. 5 is 0.005200395988623393
+DEBUG:root:Time no. 6 is 0.0071302973108132075
+DEBUG:root:Time no. 7 is 0.009074684415701143
+DEBUG:root:Time no. 8 is 0.014113432238306925
+DEBUG:root:Time no. 9 is 0.016959230093818486
+DEBUG:root:Time no. 10 is 0.020535901530916778
+DEBUG:root:Time no. 11 is 0.024207718222554964
+DEBUG:root:Time no. 12 is 0.02874440198573744
+DEBUG:root:Time no. 13 is 0.03257556228705488
+DEBUG:root:Time no. 14 is 0.03725907921122279
+DEBUG:root:Time no. 15 is 0.04267182360530722
+DEBUG:root:Time no. 16 is 0.0478567461442303
+DEBUG:root:Time no. 17 is 0.0547615261562206
+DEBUG:root:Time no. 18 is 0.061314367493113475
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.00015374683000045103
+DEBUG:root:Time no. 1 is 0.0005784436409224679
+DEBUG:root:Time no. 2 is 0.0013652850192973672
+DEBUG:root:Time no. 3 is 0.0023684254711418516
+DEBUG:root:Time no. 4 is 0.0036411990145717096
+DEBUG:root:Time no. 5 is 0.005307064024854969
+DEBUG:root:Time no. 6 is 0.007212602894325227
+DEBUG:root:Time no. 7 is 0.009298555602853833
+DEBUG:root:Time no. 8 is 0.014780436687088332
+DEBUG:root:Time no. 9 is 0.01656021262495222
+DEBUG:root:Time no. 10 is 0.020460509616419764
+DEBUG:root:Time no. 11 is 0.02385841332612995
+DEBUG:root:Time no. 12 is 0.027668503398068325
+DEBUG:root:Time no. 13 is 0.031869380380521756
+DEBUG:root:Time no. 14 is 0.03761365166499259
+DEBUG:root:Time no. 15 is 0.042320872597211956
+DEBUG:root:Time no. 16 is 0.047815264130140284
+DEBUG:root:Time no. 17 is 0.0537922956047831
+DEBUG:root:Time no. 18 is 0.05975220751805538
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.0001544052746685472
+DEBUG:root:Time no. 1 is 0.0007058526841990729
+DEBUG:root:Time no. 2 is 0.0012869301037939252
+DEBUG:root:Time no. 3 is 0.0024217594892576395
+DEBUG:root:Time no. 4 is 0.003871654648405363
+DEBUG:root:Time no. 5 is 0.005385089718024363
+DEBUG:root:Time no. 6 is 0.006986427150834199
+DEBUG:root:Time no. 7 is 0.008949909151096919
+DEBUG:root:Time no. 8 is 0.014515412708179631
+DEBUG:root:Time no. 9 is 0.016920381858400807
+DEBUG:root:Time no. 10 is 0.020445365389053546
+DEBUG:root:Time no. 11 is 0.030669694195250577
+DEBUG:root:Time no. 12 is 0.028213366360917896
+DEBUG:root:Time no. 13 is 0.0328517798253212
+DEBUG:root:Time no. 14 is 0.03729134299995951
+DEBUG:root:Time no. 15 is 0.0428054878729307
+DEBUG:root:Time no. 16 is 0.04868572798136339
+DEBUG:root:Time no. 17 is 0.0652903856214121
+DEBUG:root:Time no. 18 is 0.06070925684313311
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.97533400428845e-06
+DEBUG:root:Time no. 1 is 3.6214456745288417e-06
+DEBUG:root:Time no. 2 is 4.609112676673042e-06
+DEBUG:root:Time no. 3 is 6.255224346913483e-06
+DEBUG:root:Time no. 4 is 8.55978068524995e-06
+DEBUG:root:Time no. 5 is 1.0864337023586525e-05
+DEBUG:root:Time no. 6 is 1.3498115695971058e-05
+DEBUG:root:Time no. 7 is 1.8436450706692167e-05
+DEBUG:root:Time no. 8 is 2.1399451713124875e-05
+DEBUG:root:Time no. 9 is 2.567934205574985e-05
+DEBUG:root:Time no. 10 is 3.0946899400518917e-05
+DEBUG:root:Time no. 11 is 3.687290141338433e-05
+DEBUG:root:Time no. 12 is 4.181123642410566e-05
+DEBUG:root:Time no. 13 is 4.642034910077881e-05
+DEBUG:root:Time no. 14 is 5.1687906445547875e-05
+DEBUG:root:Time no. 15 is 6.222302113508601e-05
+DEBUG:root:Time no. 16 is 6.781980081390412e-05
+DEBUG:root:Time no. 17 is 7.045357948628865e-05
+DEBUG:root:Time no. 18 is 9.119458653131674e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 2.963001006432675e-06
+DEBUG:root:Time no. 1 is 1.975334004288454e-06
+DEBUG:root:Time no. 2 is 2.6337786723846417e-06
+DEBUG:root:Time no. 3 is 2.6337786723846417e-06
+DEBUG:root:Time no. 4 is 3.292223340480775e-06
+DEBUG:root:Time no. 5 is 3.6214456745288417e-06
+DEBUG:root:Time no. 6 is 4.938335010721108e-06
+DEBUG:root:Time no. 7 is 6.255224346913375e-06
+DEBUG:root:Time no. 8 is 7.901336017153817e-06
+DEBUG:root:Time no. 9 is 9.87667002144265e-06
+DEBUG:root:Time no. 10 is 1.18520040257304e-05
+DEBUG:root:Time no. 11 is 1.613189436835581e-05
+DEBUG:root:Time no. 12 is 1.777800603859625e-05
+DEBUG:root:Time no. 13 is 2.1399451713124875e-05
+DEBUG:root:Time no. 14 is 2.50208973876535e-05
+DEBUG:root:Time no. 15 is 2.930078773027891e-05
+DEBUG:root:Time no. 16 is 3.720212374743251e-05
+DEBUG:root:Time no. 17 is 3.8189790749577034e-05
+DEBUG:root:Time no. 18 is 4.378657042839341e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.97533400428845e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.3168893361922666e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 3.6214456745288417e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 8.55978068524995e-06
+DEBUG:root:Time no. 13 is 8.889003019297691e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1522781691682658e-05
+DEBUG:root:Time no. 16 is 1.1193559357634483e-05
+DEBUG:root:Time no. 17 is 1.2839671027874925e-05
+DEBUG:root:Time no. 18 is 1.3498115695971709e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361923e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.950668008577017e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 8.889003019297691e-06
+DEBUG:root:Time no. 14 is 8.889003019298125e-06
+DEBUG:root:Time no. 15 is 9.876670021442217e-06
+DEBUG:root:Time no. 16 is 1.251044869382675e-05
+DEBUG:root:Time no. 17 is 1.2181226359779009e-05
+DEBUG:root:Time no. 18 is 1.3827338030019884e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 2.3045563383364666e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.950668008577017e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.938335010721108e-06
+DEBUG:root:Time no. 10 is 5.596779678817242e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.547447687394475e-06
+DEBUG:root:Time no. 15 is 1.0535114689538133e-05
+DEBUG:root:Time no. 16 is 1.18520040257304e-05
+DEBUG:root:Time no. 17 is 1.2510448693826316e-05
+DEBUG:root:Time no. 18 is 1.3168893361922666e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 1.9753340042884e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 2.9630010064324915e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.242891349057683e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 1.0205892355490392e-05
+DEBUG:root:Time no. 15 is 1.0205892355490392e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.2510448693827184e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.3168893361922666e-06
+DEBUG:root:Time no. 3 is 1.6461116702403333e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 8.230558351201775e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 9.218225353345866e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.18520040257304e-05
+DEBUG:root:Time no. 17 is 1.3827338030019017e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 2.304556338336575e-06
+DEBUG:root:Time no. 4 is 2.6337786723845333e-06
+DEBUG:root:Time no. 5 is 2.9630010064324915e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.950668008577017e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.938335010721325e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.242891349057683e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 9.547447687394475e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.2510448693827184e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 9.547447687394475e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 2.7325453725990292e-05
+DEBUG:root:Time no. 16 is 1.3498115695970841e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.3498115695970841e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.6461116702403875e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 2.3045563383364666e-06
+DEBUG:root:Time no. 4 is 2.9630010064326e-06
+DEBUG:root:Time no. 5 is 3.2922233404806666e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.609112676672716e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 9.547447687394475e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 4.9383350107208915e-06
+DEBUG:root:Time no. 11 is 6.913669015009508e-06
+DEBUG:root:Time no. 12 is 8.230558351201775e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.18520040257304e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.975334004288454e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.6337786723845333e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 8.230558351201775e-06
+DEBUG:root:Time no. 13 is 9.2182253533463e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0205892355490392e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.2181226359778575e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 7.901336017154034e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634917e-05
+DEBUG:root:Time no. 16 is 1.0864337023586308e-05
+DEBUG:root:Time no. 17 is 1.3168893361923534e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 4.60911267667315e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.9013360171536e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 8.55978068524995e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0535114689538567e-05
+DEBUG:root:Time no. 16 is 1.18520040257304e-05
+DEBUG:root:Time no. 17 is 1.2181226359778141e-05
+DEBUG:root:Time no. 18 is 1.4815005032163542e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.6461116702403333e-06
+DEBUG:root:Time no. 2 is 1.6461116702404417e-06
+DEBUG:root:Time no. 3 is 2.3045563383364666e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.950668008577017e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.9013360171536e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586308e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.2510448693826316e-05
+DEBUG:root:Time no. 18 is 1.3827338030019884e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 2.3045563383364666e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.9506680085768e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 8.230558351202209e-06
+DEBUG:root:Time no. 12 is 8.230558351202209e-06
+DEBUG:root:Time no. 13 is 9.547447687394042e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634917e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.4815005032163542e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.6461116702403604e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 1.0205892355489958e-05
+DEBUG:root:Time no. 15 is 1.0535114689538567e-05
+DEBUG:root:Time no. 16 is 7.802569316939364e-05
+DEBUG:root:Time no. 17 is 1.3498115695970841e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.3168893361923209e-06
+DEBUG:root:Time no. 3 is 1.6461116702403333e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064324915e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 6.913669015009508e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.9013360171536e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 8.230558351201775e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0535114689538133e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.2839671027874491e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.9753340042884e-06
+DEBUG:root:Time no. 3 is 2.304556338336575e-06
+DEBUG:root:Time no. 4 is 2.63377867238475e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.609112676672933e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 8.55978068524995e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1522781691682658e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.2510448693827184e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 4.9383350107208915e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 9.218225353345866e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1522781691682658e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 9.87667002144227e-07
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.2922233404806666e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.938335010721108e-06
+DEBUG:root:Time no. 10 is 5.596779678817242e-06
+DEBUG:root:Time no. 11 is 7.242891349057683e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 9.547447687394042e-06
+DEBUG:root:Time no. 14 is 9.2182253533463e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.97533400428845e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 2.304556338336575e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 5.5967796788174585e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 8.230558351202209e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 9.547447687394042e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.251044869382675e-05
+DEBUG:root:Time no. 17 is 1.2181226359779009e-05
+DEBUG:root:Time no. 18 is 1.2839671027875359e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.9630010064324915e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.2922233404808834e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.242891349057683e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 8.889003019297691e-06
+DEBUG:root:Time no. 14 is 9.218225353345866e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.2181226359779009e-05
+DEBUG:root:Time no. 17 is 1.18520040257304e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.3168893361923209e-06
+DEBUG:root:Time no. 3 is 2.304556338336575e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.2922233404806666e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.572113683105425e-06
+DEBUG:root:Time no. 13 is 9.218225353345866e-06
+DEBUG:root:Time no. 14 is 9.218225353345866e-06
+DEBUG:root:Time no. 15 is 1.0535114689538133e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.2181226359778141e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064324915e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 8.230558351202209e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.2182253533463e-06
+DEBUG:root:Time no. 15 is 1.0864337023586308e-05
+DEBUG:root:Time no. 16 is 1.2181226359778575e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.4815005032163542e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.97533400428845e-06
+DEBUG:root:Time no. 1 is 1.6461116702403875e-06
+DEBUG:root:Time no. 2 is 1.975334004288454e-06
+DEBUG:root:Time no. 3 is 2.3045563383364666e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 2.9630010064324915e-06
+DEBUG:root:Time no. 7 is 3.9506680085768e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.938335010721108e-06
+DEBUG:root:Time no. 10 is 5.926002012865417e-06
+DEBUG:root:Time no. 11 is 8.230558351201775e-06
+DEBUG:root:Time no. 12 is 7.572113683105425e-06
+DEBUG:root:Time no. 13 is 1.0205892355490392e-05
+DEBUG:root:Time no. 14 is 1.0535114689538567e-05
+DEBUG:root:Time no. 15 is 1.2839671027874491e-05
+DEBUG:root:Time no. 16 is 1.3168893361922666e-05
+DEBUG:root:Time no. 17 is 1.2839671027874491e-05
+DEBUG:root:Time no. 18 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064324915e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.938335010721108e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 8.230558351201775e-06
+DEBUG:root:Time no. 13 is 9.2182253533463e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.2839671027874925e-05
+DEBUG:root:Time no. 18 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.2922233404806666e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 8.230558351201775e-06
+DEBUG:root:Time no. 13 is 9.547447687394042e-06
+DEBUG:root:Time no. 14 is 1.0205892355490392e-05
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.2181226359778575e-05
+DEBUG:root:Time no. 17 is 1.2510448693827184e-05
+DEBUG:root:Time no. 18 is 1.4815005032163542e-05
+DEBUG:root:Time no. 19 is 1.3498115695970841e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.6461116702403604e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 2.304556338336575e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 9.218225353345866e-06
+DEBUG:root:Time no. 14 is 9.2182253533463e-06
+DEBUG:root:Time no. 15 is 1.0535114689538133e-05
+DEBUG:root:Time no. 16 is 1.18520040257304e-05
+DEBUG:root:Time no. 17 is 1.2839671027874925e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Time no. 19 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.242891349057683e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 1.0205892355490392e-05
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.3498115695971709e-05
+DEBUG:root:Time no. 18 is 1.4815005032162674e-05
+DEBUG:root:Time no. 19 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.6461116702403333e-06
+DEBUG:root:Time no. 2 is 1.6461116702404417e-06
+DEBUG:root:Time no. 3 is 1.6461116702403333e-06
+DEBUG:root:Time no. 4 is 2.63377867238475e-06
+DEBUG:root:Time no. 5 is 2.9630010064324915e-06
+DEBUG:root:Time no. 6 is 2.9630010064324915e-06
+DEBUG:root:Time no. 7 is 3.621445674528625e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.9383350107208915e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 8.230558351201775e-06
+DEBUG:root:Time no. 13 is 9.547447687394042e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0864337023586308e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.3498115695970841e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Time no. 19 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.3168893361923209e-06
+DEBUG:root:Time no. 3 is 1.6461116702403333e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.251044869382675e-05
+DEBUG:root:Time no. 18 is 1.4815005032163542e-05
+DEBUG:root:Time no. 19 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.938335010721108e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.242891349057683e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 9.547447687394475e-06
+DEBUG:root:Time no. 14 is 1.0205892355490392e-05
+DEBUG:root:Time no. 15 is 1.1193559357634917e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.3498115695970841e-05
+DEBUG:root:Time no. 18 is 1.3498115695970841e-05
+DEBUG:root:Time no. 19 is 1.6131894368356242e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.609112676672716e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 9.547447687394042e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Time no. 19 is 1.4815005032163542e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.975334004288454e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 8.889003019297691e-06
+DEBUG:root:Time no. 14 is 9.547447687394475e-06
+DEBUG:root:Time no. 15 is 1.1522781691682658e-05
+DEBUG:root:Time no. 16 is 1.2181226359778575e-05
+DEBUG:root:Time no. 17 is 1.2839671027874925e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Time no. 19 is 1.514422736621085e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.2922233404808834e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 6.913669015009942e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.2182253533463e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.2181226359779009e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.3498115695970841e-05
+DEBUG:root:Time no. 19 is 1.5473449700259892e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 9.87667002144227e-07
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.572113683105425e-06
+DEBUG:root:Time no. 13 is 9.218225353345866e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0535114689538133e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.251044869382675e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Time no. 19 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361923e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.2922233404808834e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.230558351201775e-06
+DEBUG:root:Time no. 14 is 9.2182253533463e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.2181226359778575e-05
+DEBUG:root:Time no. 17 is 1.2839671027874925e-05
+DEBUG:root:Time no. 18 is 1.3827338030019884e-05
+DEBUG:root:Time no. 19 is 1.4815005032163542e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.6461116702403333e-06
+DEBUG:root:Time no. 4 is 2.9630010064327084e-06
+DEBUG:root:Time no. 5 is 3.9506680085768e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.2922233404806666e-06
+DEBUG:root:Time no. 8 is 4.60911267667315e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 8.131791650987453e-05
+DEBUG:root:Time no. 11 is 8.230558351201775e-06
+DEBUG:root:Time no. 12 is 7.572113683105425e-06
+DEBUG:root:Time no. 13 is 9.2182253533463e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0535114689538133e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.1852004025729966e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Time no. 19 is 1.58026720343072e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 2.3045563383364666e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 9.2182253533463e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.2181226359779009e-05
+DEBUG:root:Time no. 17 is 1.2839671027874491e-05
+DEBUG:root:Time no. 18 is 5.761390845841329e-05
+DEBUG:root:Time no. 19 is 1.5473449700259892e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.6337786723845333e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.9506680085768e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.938335010721108e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 1.0205892355489958e-05
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.1193559357634483e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Time no. 19 is 1.4815005032163542e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064324915e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.596779678817242e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 8.230558351201775e-06
+DEBUG:root:Time no. 13 is 9.218225353345866e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.251044869382675e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Time no. 19 is 1.5473449700259892e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.230558351201775e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 9.876670021442217e-06
+DEBUG:root:Time no. 16 is 1.251044869382675e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Time no. 19 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.97533400428845e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.242891349057683e-06
+DEBUG:root:Time no. 12 is 7.5721136831058584e-06
+DEBUG:root:Time no. 13 is 9.2182253533463e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1193559357634917e-05
+DEBUG:root:Time no. 17 is 1.3498115695971275e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Time no. 19 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 2.963001006432675e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.6461116702403333e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.2922233404806666e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 4.60911267667315e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 9.218225353345866e-06
+DEBUG:root:Time no. 13 is 9.547447687394475e-06
+DEBUG:root:Time no. 14 is 1.0535114689538133e-05
+DEBUG:root:Time no. 15 is 1.0864337023586308e-05
+DEBUG:root:Time no. 16 is 1.0864337023586308e-05
+DEBUG:root:Time no. 17 is 1.2181226359778141e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Time no. 19 is 1.4156560364067192e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 9.87667002144227e-07
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.621445674528625e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 5.596779678817242e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 8.230558351202209e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586308e-05
+DEBUG:root:Time no. 16 is 1.2181226359778575e-05
+DEBUG:root:Time no. 17 is 1.2839671027875359e-05
+DEBUG:root:Time no. 18 is 1.646111670240355e-05
+DEBUG:root:Time no. 19 is 1.6790339036451725e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.6461116702403333e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.2181226359779009e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Time no. 19 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.6461116702403875e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.63377867238475e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.938335010721108e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 6.913669015009508e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.889003019297691e-06
+DEBUG:root:Time no. 14 is 9.547447687394042e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.6461116702404417e-05
+DEBUG:root:Time no. 19 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.609112676672933e-06
+DEBUG:root:Time no. 10 is 5.2675573447695e-06
+DEBUG:root:Time no. 11 is 7.9013360171536e-06
+DEBUG:root:Time no. 12 is 7.572113683105425e-06
+DEBUG:root:Time no. 13 is 9.547447687394042e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.31688933619231e-05
+DEBUG:root:Time no. 18 is 1.514422736621085e-05
+DEBUG:root:Time no. 19 is 1.4156560364067192e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361923e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.6337786723845333e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.1193559357634483e-05
+DEBUG:root:Time no. 16 is 1.18520040257304e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Time no. 19 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 3.2922233404806666e-06
+DEBUG:root:Time no. 7 is 3.950668008577017e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.596779678817242e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 8.230558351201775e-06
+DEBUG:root:Time no. 13 is 9.2182253533463e-06
+DEBUG:root:Time no. 14 is 9.218225353345866e-06
+DEBUG:root:Time no. 15 is 1.0535114689538133e-05
+DEBUG:root:Time no. 16 is 1.1522781691682225e-05
+DEBUG:root:Time no. 17 is 1.2510448693827184e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Time no. 19 is 1.4156560364067192e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 9.876670021442e-07
+DEBUG:root:Time no. 2 is 1.975334004288454e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.9630010064327084e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.5721136831058584e-06
+DEBUG:root:Time no. 12 is 7.9013360171536e-06
+DEBUG:root:Time no. 13 is 9.2182253533463e-06
+DEBUG:root:Time no. 14 is 9.876670021442217e-06
+DEBUG:root:Time no. 15 is 1.0864337023586308e-05
+DEBUG:root:Time no. 16 is 1.1193559357634483e-05
+DEBUG:root:Time no. 17 is 1.3168893361922666e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Time no. 19 is 1.5144227366211717e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.975334004288454e-06
+DEBUG:root:Time no. 3 is 2.3045563383364666e-06
+DEBUG:root:Time no. 4 is 2.6337786723846417e-06
+DEBUG:root:Time no. 5 is 2.9630010064324915e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.950668008577017e-06
+DEBUG:root:Time no. 8 is 3.950668008577017e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 6.584446680961333e-06
+DEBUG:root:Time no. 12 is 9.2182253533463e-06
+DEBUG:root:Time no. 13 is 9.876670021442217e-06
+DEBUG:root:Time no. 14 is 1.0205892355490392e-05
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.0864337023586742e-05
+DEBUG:root:Time no. 17 is 1.2839671027875359e-05
+DEBUG:root:Time no. 18 is 1.3827338030019017e-05
+DEBUG:root:Time no. 19 is 1.4815005032163542e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042884e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 1.71195613704999e-05
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.2922233404808834e-06
+DEBUG:root:Time no. 8 is 4.279890342625192e-06
+DEBUG:root:Time no. 9 is 4.609112676672716e-06
+DEBUG:root:Time no. 10 is 5.2675573447690666e-06
+DEBUG:root:Time no. 11 is 7.572113683105425e-06
+DEBUG:root:Time no. 12 is 7.572113683105425e-06
+DEBUG:root:Time no. 13 is 8.889003019298125e-06
+DEBUG:root:Time no. 14 is 9.2182253533463e-06
+DEBUG:root:Time no. 15 is 9.87667002144265e-06
+DEBUG:root:Time no. 16 is 1.1193559357634483e-05
+DEBUG:root:Time no. 17 is 1.2181226359778141e-05
+DEBUG:root:Time no. 18 is 1.3498115695970841e-05
+DEBUG:root:Time no. 19 is 1.5473449700259025e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 9.87667002144227e-07
+DEBUG:root:Time no. 2 is 1.975334004288454e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.304556338336575e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 2.9630010064327084e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 4.279890342624975e-06
+DEBUG:root:Time no. 9 is 4.60911267667315e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.901336017154034e-06
+DEBUG:root:Time no. 12 is 7.572113683105425e-06
+DEBUG:root:Time no. 13 is 9.218225353345866e-06
+DEBUG:root:Time no. 14 is 1.0205892355490392e-05
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1522781691682658e-05
+DEBUG:root:Time no. 17 is 1.3498115695970841e-05
+DEBUG:root:Time no. 18 is 1.4156560364067192e-05
+DEBUG:root:Time no. 19 is 1.5473449700259025e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 1.6461116702403875e-06
+DEBUG:root:Time no. 3 is 1.9753340042885084e-06
+DEBUG:root:Time no. 4 is 2.3045563383364666e-06
+DEBUG:root:Time no. 5 is 2.6337786723845333e-06
+DEBUG:root:Time no. 6 is 3.2922233404808834e-06
+DEBUG:root:Time no. 7 is 3.6214456745288417e-06
+DEBUG:root:Time no. 8 is 3.9506680085768e-06
+DEBUG:root:Time no. 9 is 4.279890342624975e-06
+DEBUG:root:Time no. 10 is 4.938335010721325e-06
+DEBUG:root:Time no. 11 is 7.9013360171536e-06
+DEBUG:root:Time no. 12 is 7.901336017154034e-06
+DEBUG:root:Time no. 13 is 8.55978068524995e-06
+DEBUG:root:Time no. 14 is 1.0205892355490392e-05
+DEBUG:root:Time no. 15 is 1.0864337023586742e-05
+DEBUG:root:Time no. 16 is 1.1852004025730833e-05
+DEBUG:root:Time no. 17 is 1.2181226359779009e-05
+DEBUG:root:Time no. 18 is 1.4485782698115367e-05
+DEBUG:root:Time no. 19 is 1.4485782698115367e-05
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 2.304556338336525e-06
+DEBUG:root:Time no. 1 is 9.876670021442e-07
+DEBUG:root:Time no. 2 is 1.3168893361922666e-06
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 9.876670021443084e-07
+DEBUG:root:Time no. 5 is 3.6214456745288417e-06
+DEBUG:root:Time no. 6 is 1.3168893361922666e-06
+DEBUG:root:Time no. 7 is 1.3168893361922666e-06
+DEBUG:root:Time no. 8 is 9.876670021443084e-07
+DEBUG:root:Time no. 9 is 9.876670021440916e-07
+DEBUG:root:Time no. 10 is 9.876670021440916e-07
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021440916e-07
+DEBUG:root:Time no. 13 is 9.876670021445252e-07
+DEBUG:root:Time no. 14 is 9.876670021440916e-07
+DEBUG:root:Time no. 15 is 9.876670021445252e-07
+DEBUG:root:Time no. 16 is 9.876670021440916e-07
+DEBUG:root:Time no. 17 is 9.876670021436579e-07
+DEBUG:root:Time no. 18 is 9.876670021445252e-07
+DEBUG:root:Time no. 19 is 9.876670021436579e-07
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361923209e-06
+DEBUG:root:Time no. 2 is 9.876670021442e-07
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 9.876670021442e-07
+DEBUG:root:Time no. 5 is 9.876670021440916e-07
+DEBUG:root:Time no. 6 is 1.3168893361922666e-06
+DEBUG:root:Time no. 7 is 1.3168893361924835e-06
+DEBUG:root:Time no. 8 is 1.3168893361922666e-06
+DEBUG:root:Time no. 9 is 9.876670021443084e-07
+DEBUG:root:Time no. 10 is 9.876670021440916e-07
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021445252e-07
+DEBUG:root:Time no. 13 is 9.876670021440916e-07
+DEBUG:root:Time no. 14 is 9.876670021445252e-07
+DEBUG:root:Time no. 15 is 9.876670021440916e-07
+DEBUG:root:Time no. 16 is 1.3168893361922666e-06
+DEBUG:root:Time no. 17 is 9.876670021445252e-07
+DEBUG:root:Time no. 18 is 9.876670021436579e-07
+DEBUG:root:Time no. 19 is 9.876670021436579e-07
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361922666e-06
+DEBUG:root:Time no. 2 is 9.876670021442542e-07
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 9.876670021442e-07
+DEBUG:root:Time no. 5 is 9.876670021443084e-07
+DEBUG:root:Time no. 6 is 9.876670021440916e-07
+DEBUG:root:Time no. 7 is 1.3168893361922666e-06
+DEBUG:root:Time no. 8 is 9.876670021443084e-07
+DEBUG:root:Time no. 9 is 9.876670021440916e-07
+DEBUG:root:Time no. 10 is 9.876670021445252e-07
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021440916e-07
+DEBUG:root:Time no. 13 is 9.876670021445252e-07
+DEBUG:root:Time no. 14 is 9.876670021445252e-07
+DEBUG:root:Time no. 15 is 1.3168893361922666e-06
+DEBUG:root:Time no. 16 is 9.876670021436579e-07
+DEBUG:root:Time no. 17 is 9.876670021445252e-07
+DEBUG:root:Time no. 18 is 1.316889336191833e-06
+DEBUG:root:Time no. 19 is 9.876670021436579e-07
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.646111670240375e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 9.876670021442e-07
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 9.876670021443084e-07
+DEBUG:root:Time no. 5 is 1.3168893361922666e-06
+DEBUG:root:Time no. 6 is 1.3168893361922666e-06
+DEBUG:root:Time no. 7 is 1.3168893361922666e-06
+DEBUG:root:Time no. 8 is 1.3168893361922666e-06
+DEBUG:root:Time no. 9 is 9.876670021440916e-07
+DEBUG:root:Time no. 10 is 2.304556338336358e-06
+DEBUG:root:Time no. 11 is 1.3168893361922666e-06
+DEBUG:root:Time no. 12 is 9.876670021445252e-07
+DEBUG:root:Time no. 13 is 9.876670021445252e-07
+DEBUG:root:Time no. 14 is 9.876670021440916e-07
+DEBUG:root:Time no. 15 is 1.3168893361927003e-06
+DEBUG:root:Time no. 16 is 9.876670021440916e-07
+DEBUG:root:Time no. 17 is 9.876670021445252e-07
+DEBUG:root:Time no. 18 is 9.876670021445252e-07
+DEBUG:root:Time no. 19 is 9.876670021436579e-07
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.6461116702403748e-06
+DEBUG:root:Time no. 1 is 1.3168893361922937e-06
+DEBUG:root:Time no. 2 is 9.876670021442e-07
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 9.876670021443084e-07
+DEBUG:root:Time no. 5 is 1.3168893361922666e-06
+DEBUG:root:Time no. 6 is 9.876670021440916e-07
+DEBUG:root:Time no. 7 is 1.3168893361922666e-06
+DEBUG:root:Time no. 8 is 9.876670021440916e-07
+DEBUG:root:Time no. 9 is 9.876670021443084e-07
+DEBUG:root:Time no. 10 is 9.876670021440916e-07
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021445252e-07
+DEBUG:root:Time no. 13 is 9.876670021440916e-07
+DEBUG:root:Time no. 14 is 9.876670021440916e-07
+DEBUG:root:Time no. 15 is 9.876670021440916e-07
+DEBUG:root:Time no. 16 is 9.876670021440916e-07
+DEBUG:root:Time no. 17 is 9.876670021440916e-07
+DEBUG:root:Time no. 18 is 1.3168893361927003e-06
+DEBUG:root:Time no. 19 is 9.876670021445252e-07
+DEBUG:root:Calculated square_roo approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+INFO:root:Start logging
+INFO:root:Start logging
+INFO:root:Start logging
+INFO:root:Start logging
+INFO:root:Start logging
+INFO:root:Start logging
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start
+DEBUG:root:Arguments parsed
+DEBUG:root:Created an object of a class
+DEBUG:root:Array with n's created successfully
+DEBUG:root:Measured time no. 0
+DEBUG:root:Measured time no. 1
+DEBUG:root:Measured time no. 2
+DEBUG:root:Measured time no. 3
+DEBUG:root:Measured time no. 4
+DEBUG:root:Measured time no. 5
+DEBUG:root:Measured time no. 6
+DEBUG:root:Measured time no. 7
+DEBUG:root:Measured time no. 8
+DEBUG:root:Measured time no. 9
+DEBUG:root:Measured time no. 10
+DEBUG:root:Measured time no. 11
+DEBUG:root:Measured time no. 12
+DEBUG:root:Measured time no. 13
+DEBUG:root:Measured time no. 14
+DEBUG:root:Measured time no. 15
+DEBUG:root:Measured time no. 16
+DEBUG:root:Measured time no. 17
+DEBUG:root:Measured time no. 18
+DEBUG:root:Measured time no. 19
+DEBUG:root:Measurements done
+DEBUG:root:Calculated approximation to x
+DEBUG:root:Calculated approximation to x^2
+DEBUG:root:Calculated approximation to x^3
+DEBUG:root:Calculated approximation to logx
+DEBUG:root:Calculated approximation to xlogx
+DEBUG:root:Calculated approximation to sqrt(x)
+INFO:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 6.255224346913425e-06
+DEBUG:root:Time no. 1 is 6.584446680961875e-07
+DEBUG:root:Time no. 2 is 9.876670021442e-07
+DEBUG:root:Time no. 3 is 6.584446680961333e-07
+DEBUG:root:Time no. 4 is 6.584446680961333e-07
+DEBUG:root:Time no. 5 is 6.584446680961333e-07
+DEBUG:root:Time no. 6 is 6.584446680961333e-07
+DEBUG:root:Time no. 7 is 6.584446680961333e-07
+DEBUG:root:Time no. 8 is 6.584446680963502e-07
+DEBUG:root:Time no. 9 is 6.584446680963502e-07
+DEBUG:root:Time no. 10 is 6.584446680959165e-07
+DEBUG:root:Time no. 11 is 3.292223340481751e-07
+DEBUG:root:Time no. 12 is 6.584446680963502e-07
+DEBUG:root:Time no. 13 is 6.584446680963502e-07
+DEBUG:root:Time no. 14 is 3.292223340477414e-07
+DEBUG:root:Time no. 15 is 6.584446680963502e-07
+DEBUG:root:Time no. 16 is 6.584446680959165e-07
+DEBUG:root:Time no. 17 is 3.292223340481751e-07
+DEBUG:root:Time no. 18 is 3.292223340481751e-07
+DEBUG:root:Time no. 19 is 3.292223340481751e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 6.584446680961499e-07
+DEBUG:root:Time no. 1 is 6.584446680961333e-07
+DEBUG:root:Time no. 2 is 6.584446680961875e-07
+DEBUG:root:Time no. 3 is 6.584446680961333e-07
+DEBUG:root:Time no. 4 is 6.584446680961333e-07
+DEBUG:root:Time no. 5 is 6.584446680961333e-07
+DEBUG:root:Time no. 6 is 6.584446680961333e-07
+DEBUG:root:Time no. 7 is 3.2922233404795824e-07
+DEBUG:root:Time no. 8 is 6.584446680961333e-07
+DEBUG:root:Time no. 9 is 6.584446680961333e-07
+DEBUG:root:Time no. 10 is 6.584446680963502e-07
+DEBUG:root:Time no. 11 is 6.584446680963502e-07
+DEBUG:root:Time no. 12 is 6.584446680959165e-07
+DEBUG:root:Time no. 13 is 6.584446680963502e-07
+DEBUG:root:Time no. 14 is 1.3168893361922666e-06
+DEBUG:root:Time no. 15 is 6.584446680959165e-07
+DEBUG:root:Time no. 16 is 6.584446680963502e-07
+DEBUG:root:Time no. 17 is 6.584446680963502e-07
+DEBUG:root:Time no. 18 is 3.292223340481751e-07
+DEBUG:root:Time no. 19 is 6.584446680963502e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 6.584446680961499e-07
+DEBUG:root:Time no. 1 is 6.584446680961333e-07
+DEBUG:root:Time no. 2 is 6.584446680961333e-07
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 6.584446680961333e-07
+DEBUG:root:Time no. 5 is 6.584446680963502e-07
+DEBUG:root:Time no. 6 is 6.584446680961333e-07
+DEBUG:root:Time no. 7 is 3.292223340481751e-07
+DEBUG:root:Time no. 8 is 6.584446680961333e-07
+DEBUG:root:Time no. 9 is 6.584446680959165e-07
+DEBUG:root:Time no. 10 is 6.584446680963502e-07
+DEBUG:root:Time no. 11 is 6.584446680963502e-07
+DEBUG:root:Time no. 12 is 6.584446680963502e-07
+DEBUG:root:Time no. 13 is 6.584446680959165e-07
+DEBUG:root:Time no. 14 is 6.584446680963502e-07
+DEBUG:root:Time no. 15 is 3.292223340481751e-07
+DEBUG:root:Time no. 16 is 6.584446680963502e-07
+DEBUG:root:Time no. 17 is 6.584446680963502e-07
+DEBUG:root:Time no. 18 is 6.584446680963502e-07
+DEBUG:root:Time no. 19 is 3.292223340481751e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 9.87667002144225e-07
+DEBUG:root:Time no. 1 is 6.584446680961333e-07
+DEBUG:root:Time no. 2 is 6.584446680961333e-07
+DEBUG:root:Time no. 3 is 6.584446680961333e-07
+DEBUG:root:Time no. 4 is 6.584446680961333e-07
+DEBUG:root:Time no. 5 is 6.584446680961333e-07
+DEBUG:root:Time no. 6 is 1.3168893361922666e-06
+DEBUG:root:Time no. 7 is 6.584446680963502e-07
+DEBUG:root:Time no. 8 is 6.584446680963502e-07
+DEBUG:root:Time no. 9 is 6.584446680963502e-07
+DEBUG:root:Time no. 10 is 6.584446680959165e-07
+DEBUG:root:Time no. 11 is 6.584446680963502e-07
+DEBUG:root:Time no. 12 is 3.292223340481751e-07
+DEBUG:root:Time no. 13 is 6.584446680963502e-07
+DEBUG:root:Time no. 14 is 3.292223340481751e-07
+DEBUG:root:Time no. 15 is 6.584446680959165e-07
+DEBUG:root:Time no. 16 is 6.584446680963502e-07
+DEBUG:root:Time no. 17 is 6.584446680963502e-07
+DEBUG:root:Time no. 18 is 6.584446680963502e-07
+DEBUG:root:Time no. 19 is 3.292223340481751e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 9.87667002144225e-07
+DEBUG:root:Time no. 1 is 6.584446680961333e-07
+DEBUG:root:Time no. 2 is 6.584446680961333e-07
+DEBUG:root:Time no. 3 is 6.584446680961333e-07
+DEBUG:root:Time no. 4 is 6.584446680961333e-07
+DEBUG:root:Time no. 5 is 6.584446680961333e-07
+DEBUG:root:Time no. 6 is 6.584446680961333e-07
+DEBUG:root:Time no. 7 is 6.584446680961333e-07
+DEBUG:root:Time no. 8 is 6.584446680961333e-07
+DEBUG:root:Time no. 9 is 6.584446680961333e-07
+DEBUG:root:Time no. 10 is 6.584446680959165e-07
+DEBUG:root:Time no. 11 is 6.584446680959165e-07
+DEBUG:root:Time no. 12 is 6.584446680959165e-07
+DEBUG:root:Time no. 13 is 6.584446680963502e-07
+DEBUG:root:Time no. 14 is 6.584446680963502e-07
+DEBUG:root:Time no. 15 is 6.584446680959165e-07
+DEBUG:root:Time no. 16 is 6.584446680959165e-07
+DEBUG:root:Time no. 17 is 6.584446680959165e-07
+DEBUG:root:Time no. 18 is 6.584446680963502e-07
+DEBUG:root:Time no. 19 is 6.584446680963502e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 2.6337786723846e-06
+DEBUG:root:Time no. 1 is 3.6214456745287875e-06
+DEBUG:root:Time no. 2 is 9.547447687394258e-06
+DEBUG:root:Time no. 3 is 3.127612173456709e-05
+DEBUG:root:Time no. 4 is 8.461013985035519e-05
+DEBUG:root:Time no. 5 is 0.0002143237394652967
+DEBUG:root:Time no. 6 is 0.00044774237430538193
+DEBUG:root:Time no. 7 is 0.0009106289759769756
+DEBUG:root:Time no. 8 is 0.0018446327376713638
+DEBUG:root:Time no. 9 is 0.0036448204602462387
+DEBUG:root:Time no. 10 is 0.006205840996806213
+DEBUG:root:Time no. 11 is 0.009538558684374879
+DEBUG:root:Time no. 12 is 0.01727001597715987
+DEBUG:root:Time no. 13 is 0.04368549917184121
+DEBUG:root:Time no. 14 is 0.03520045195642017
+DEBUG:root:Time no. 15 is 0.04369142517385409
+DEBUG:root:Time no. 16 is 0.06232606772564325
+DEBUG:root:Time no. 17 is 0.10876518249946257
+DEBUG:root:Time no. 18 is 0.11895197995957807
+DEBUG:root:Time no. 19 is 0.17321177127870946
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 2.304556338336525e-06
+DEBUG:root:Time no. 1 is 3.6214456745288146e-06
+DEBUG:root:Time no. 2 is 9.218225353346083e-06
+DEBUG:root:Time no. 3 is 2.9300787730278692e-05
+DEBUG:root:Time no. 4 is 8.757314085678801e-05
+DEBUG:root:Time no. 5 is 0.00019786262276289294
+DEBUG:root:Time no. 6 is 0.0004418163722925165
+DEBUG:root:Time no. 7 is 0.0008951555262767161
+DEBUG:root:Time no. 8 is 0.0017083346913754614
+DEBUG:root:Time no. 9 is 0.0030150181352122715
+DEBUG:root:Time no. 10 is 0.005128625519800912
+DEBUG:root:Time no. 11 is 0.008465623097712201
+DEBUG:root:Time no. 12 is 0.01337992487804782
+DEBUG:root:Time no. 13 is 0.020195156415177024
+DEBUG:root:Time no. 14 is 0.030209441372251365
+DEBUG:root:Time no. 15 is 0.04357290513359678
+DEBUG:root:Time no. 16 is 0.07598023480795307
+DEBUG:root:Time no. 17 is 0.08724490618974201
+DEBUG:root:Time no. 18 is 0.13241388119880382
+DEBUG:root:Time no. 19 is 0.1703271251877802
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.97533400428845e-06
+DEBUG:root:Time no. 1 is 3.292223340480775e-06
+DEBUG:root:Time no. 2 is 9.218225353346083e-06
+DEBUG:root:Time no. 3 is 2.864234306218245e-05
+DEBUG:root:Time no. 4 is 7.967180483963419e-05
+DEBUG:root:Time no. 5 is 0.0001965457334267009
+DEBUG:root:Time no. 6 is 0.0005079900614361798
+DEBUG:root:Time no. 7 is 0.0009004230836214852
+DEBUG:root:Time no. 8 is 0.0016556591179277694
+DEBUG:root:Time no. 9 is 0.003010738244869645
+DEBUG:root:Time no. 10 is 0.005288298351814229
+DEBUG:root:Time no. 11 is 0.00823319212987426
+DEBUG:root:Time no. 12 is 0.01317909925427849
+DEBUG:root:Time no. 13 is 0.02001441335378462
+DEBUG:root:Time no. 14 is 0.029618158060301027
+DEBUG:root:Time no. 15 is 0.04307281640817774
+DEBUG:root:Time no. 16 is 0.06146976043478419
+DEBUG:root:Time no. 17 is 0.08773972735781627
+DEBUG:root:Time no. 18 is 0.12008746778970991
+DEBUG:root:Time no. 19 is 0.1601074054942599
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361923e-06
+DEBUG:root:Time no. 1 is 9.876670021442542e-07
+DEBUG:root:Time no. 2 is 9.876670021442e-07
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 9.876670021442e-07
+DEBUG:root:Time no. 5 is 9.876670021443084e-07
+DEBUG:root:Time no. 6 is 9.876670021440916e-07
+DEBUG:root:Time no. 7 is 9.876670021440916e-07
+DEBUG:root:Time no. 8 is 9.876670021440916e-07
+DEBUG:root:Time no. 9 is 9.876670021443084e-07
+DEBUG:root:Time no. 10 is 9.876670021440916e-07
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021440916e-07
+DEBUG:root:Time no. 13 is 9.876670021445252e-07
+DEBUG:root:Time no. 14 is 9.876670021440916e-07
+DEBUG:root:Time no. 15 is 9.876670021440916e-07
+DEBUG:root:Time no. 16 is 9.876670021445252e-07
+DEBUG:root:Time no. 17 is 9.876670021440916e-07
+DEBUG:root:Time no. 18 is 1.3168893361927003e-06
+DEBUG:root:Time no. 19 is 9.876670021445252e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361923e-06
+DEBUG:root:Time no. 1 is 9.87667002144227e-07
+DEBUG:root:Time no. 2 is 1.3168893361923209e-06
+DEBUG:root:Time no. 3 is 9.876670021443084e-07
+DEBUG:root:Time no. 4 is 9.876670021442e-07
+DEBUG:root:Time no. 5 is 9.876670021443084e-07
+DEBUG:root:Time no. 6 is 9.876670021443084e-07
+DEBUG:root:Time no. 7 is 9.876670021440916e-07
+DEBUG:root:Time no. 8 is 1.3168893361922666e-06
+DEBUG:root:Time no. 9 is 9.876670021443084e-07
+DEBUG:root:Time no. 10 is 9.876670021440916e-07
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021440916e-07
+DEBUG:root:Time no. 13 is 9.876670021440916e-07
+DEBUG:root:Time no. 14 is 9.876670021445252e-07
+DEBUG:root:Time no. 15 is 9.876670021440916e-07
+DEBUG:root:Time no. 16 is 9.876670021440916e-07
+DEBUG:root:Time no. 17 is 9.876670021445252e-07
+DEBUG:root:Time no. 18 is 9.876670021445252e-07
+DEBUG:root:Time no. 19 is 9.876670021436579e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361923e-06
+DEBUG:root:Time no. 1 is 9.87667002144227e-07
+DEBUG:root:Time no. 2 is 1.316889336192375e-06
+DEBUG:root:Time no. 3 is 9.876670021443084e-07
+DEBUG:root:Time no. 4 is 9.876670021442e-07
+DEBUG:root:Time no. 5 is 9.876670021440916e-07
+DEBUG:root:Time no. 6 is 9.876670021440916e-07
+DEBUG:root:Time no. 7 is 9.876670021443084e-07
+DEBUG:root:Time no. 8 is 9.876670021440916e-07
+DEBUG:root:Time no. 9 is 9.876670021445252e-07
+DEBUG:root:Time no. 10 is 9.876670021445252e-07
+DEBUG:root:Time no. 11 is 9.876670021445252e-07
+DEBUG:root:Time no. 12 is 9.876670021440916e-07
+DEBUG:root:Time no. 13 is 9.876670021445252e-07
+DEBUG:root:Time no. 14 is 9.876670021440916e-07
+DEBUG:root:Time no. 15 is 9.876670021440916e-07
+DEBUG:root:Time no. 16 is 9.876670021440916e-07
+DEBUG:root:Time no. 17 is 9.876670021440916e-07
+DEBUG:root:Time no. 18 is 9.876670021445252e-07
+DEBUG:root:Time no. 19 is 9.876670021445252e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361923e-06
+DEBUG:root:Time no. 1 is 9.876670021442542e-07
+DEBUG:root:Time no. 2 is 9.876670021442e-07
+DEBUG:root:Time no. 3 is 9.876670021442e-07
+DEBUG:root:Time no. 4 is 9.876670021443084e-07
+DEBUG:root:Time no. 5 is 9.876670021443084e-07
+DEBUG:root:Time no. 6 is 9.876670021443084e-07
+DEBUG:root:Time no. 7 is 1.3168893361922666e-06
+DEBUG:root:Time no. 8 is 9.876670021443084e-07
+DEBUG:root:Time no. 9 is 9.876670021440916e-07
+DEBUG:root:Time no. 10 is 1.3168893361922666e-06
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021440916e-07
+DEBUG:root:Time no. 13 is 9.876670021440916e-07
+DEBUG:root:Time no. 14 is 9.876670021440916e-07
+DEBUG:root:Time no. 15 is 9.876670021445252e-07
+DEBUG:root:Time no. 16 is 9.876670021440916e-07
+DEBUG:root:Time no. 17 is 9.876670021445252e-07
+DEBUG:root:Time no. 18 is 9.876670021445252e-07
+DEBUG:root:Time no. 19 is 9.876670021436579e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 1.3168893361922999e-06
+DEBUG:root:Time no. 1 is 9.87667002144227e-07
+DEBUG:root:Time no. 2 is 9.876670021442e-07
+DEBUG:root:Time no. 3 is 1.316889336192375e-06
+DEBUG:root:Time no. 4 is 9.876670021442e-07
+DEBUG:root:Time no. 5 is 9.876670021443084e-07
+DEBUG:root:Time no. 6 is 9.876670021440916e-07
+DEBUG:root:Time no. 7 is 9.876670021443084e-07
+DEBUG:root:Time no. 8 is 9.876670021443084e-07
+DEBUG:root:Time no. 9 is 9.876670021443084e-07
+DEBUG:root:Time no. 10 is 9.876670021440916e-07
+DEBUG:root:Time no. 11 is 9.876670021440916e-07
+DEBUG:root:Time no. 12 is 9.876670021440916e-07
+DEBUG:root:Time no. 13 is 9.876670021440916e-07
+DEBUG:root:Time no. 14 is 1.3168893361922666e-06
+DEBUG:root:Time no. 15 is 9.876670021440916e-07
+DEBUG:root:Time no. 16 is 1.3168893361922666e-06
+DEBUG:root:Time no. 17 is 9.876670021440916e-07
+DEBUG:root:Time no. 18 is 9.876670021445252e-07
+DEBUG:root:Time no. 19 is 9.876670021445252e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 9.87667002144225e-07
+DEBUG:root:Time no. 1 is 6.584446680961875e-07
+DEBUG:root:Time no. 2 is 3.2922233404806666e-07
+DEBUG:root:Time no. 3 is 6.584446680961333e-07
+DEBUG:root:Time no. 4 is 6.584446680961333e-07
+DEBUG:root:Time no. 5 is 6.584446680961333e-07
+DEBUG:root:Time no. 6 is 6.584446680961333e-07
+DEBUG:root:Time no. 7 is 6.584446680963502e-07
+DEBUG:root:Time no. 8 is 6.584446680961333e-07
+DEBUG:root:Time no. 9 is 3.2922233404795824e-07
+DEBUG:root:Time no. 10 is 6.584446680959165e-07
+DEBUG:root:Time no. 11 is 6.584446680959165e-07
+DEBUG:root:Time no. 12 is 6.584446680963502e-07
+DEBUG:root:Time no. 13 is 6.584446680959165e-07
+DEBUG:root:Time no. 14 is 6.584446680963502e-07
+DEBUG:root:Time no. 15 is 3.292223340481751e-07
+DEBUG:root:Time no. 16 is 6.584446680963502e-07
+DEBUG:root:Time no. 17 is 6.584446680959165e-07
+DEBUG:root:Time no. 18 is 6.584446680963502e-07
+DEBUG:root:Time no. 19 is 6.584446680963502e-07
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.007613595697195783
+DEBUG:root:Time no. 1 is 0.015060604893363241
+DEBUG:root:Time no. 2 is 0.015067518562378254
+DEBUG:root:Time no. 3 is 0.015289414415526656
+DEBUG:root:Time no. 4 is 0.015123815581500472
+DEBUG:root:Time no. 5 is 0.015296986529209758
+DEBUG:root:Time no. 6 is 0.015352954325997925
+DEBUG:root:Time no. 7 is 0.015276245522164722
+DEBUG:root:Time no. 8 is 0.015297315751543805
+DEBUG:root:Time no. 9 is 0.015320690537261206
+DEBUG:root:Time no. 10 is 0.01528184230184354
+DEBUG:root:Time no. 11 is 0.01534340687831054
+DEBUG:root:Time no. 12 is 0.015213693278695595
+DEBUG:root:Time no. 13 is 0.015352625103663892
+DEBUG:root:Time no. 14 is 0.015364147885355561
+DEBUG:root:Time no. 15 is 0.015055666558352498
+DEBUG:root:Time no. 16 is 0.015159371593577692
+DEBUG:root:Time no. 17 is 0.01514093514287096
+DEBUG:root:Time no. 18 is 0.015106366797795923
+DEBUG:root:Time no. 19 is 0.015185050935633437
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
+INFO:root:Start logging
+DEBUG:root:Time no. 0 is 0.012547650817574285
+DEBUG:root:Time no. 1 is 0.015065872450708008
+DEBUG:root:Time no. 2 is 0.015256492182121845
+DEBUG:root:Time no. 3 is 0.015394107117753943
+DEBUG:root:Time no. 4 is 0.015307192421565252
+DEBUG:root:Time no. 5 is 0.015392790228417746
+DEBUG:root:Time no. 6 is 0.015319044425590969
+DEBUG:root:Time no. 7 is 0.015338468543299816
+DEBUG:root:Time no. 8 is 0.015278220856169006
+DEBUG:root:Time no. 9 is 0.01539937467509872
+DEBUG:root:Time no. 10 is 0.015318056758588827
+DEBUG:root:Time no. 11 is 0.01529237741653311
+DEBUG:root:Time no. 12 is 0.015340114654970038
+DEBUG:root:Time no. 13 is 0.015367440108696062
+DEBUG:root:Time no. 14 is 0.015352625103663864
+DEBUG:root:Time no. 15 is 0.015294352750537366
+DEBUG:root:Time no. 16 is 0.015333859430623126
+DEBUG:root:Time no. 17 is 0.015385218114734645
+DEBUG:root:Time no. 18 is 0.015264722740473025
+DEBUG:root:Time no. 19 is 0.015315093757582388
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Finished
