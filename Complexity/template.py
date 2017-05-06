@@ -12,12 +12,12 @@ class Template:
             self.table.append(randint(0, 100))
 
     def function(self):
-        # self.quicksort(self.table, 0, self.n - 1)
+        self.quicksort(self.table, 0, self.n - 1)
 
-        for i in range(0, self.n):
-            for j in range(0, self.n):
-                for k in range(0, self.n):
-                    self.table.append(123)
+        # for i in range(0, self.n):
+        #     for j in range(0, self.n):
+        #         for k in range(0, self.n):
+        #             self.table.append(123)
 
     def quicksort(self, myList, start, end):
         if start < end:

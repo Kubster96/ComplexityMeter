@@ -1,0 +1,32 @@
+INFO:root:Start logging
+DEBUG:root:Created an object of my_class
+DEBUG:root:Time no. 0 is 4.646699926524889e-05
+DEBUG:root:Time no. 1 is 4.678100049204659e-05
+DEBUG:root:Time no. 2 is 0.00022148999960336369
+DEBUG:root:Time no. 3 is 0.0003987560012319591
+DEBUG:root:Time no. 4 is 0.00059284300004947
+DEBUG:root:Time no. 5 is 0.0007871999987401068
+DEBUG:root:Time no. 6 is 0.0009963379998225719
+DEBUG:root:Time no. 7 is 0.001223778999701608
+DEBUG:root:Time no. 8 is 0.0015004599990788847
+DEBUG:root:Time no. 9 is 0.0017192449995491188
+DEBUG:root:Time no. 10 is 0.002010280000831699
+DEBUG:root:Time no. 11 is 0.0022747719995095395
+DEBUG:root:Time no. 12 is 0.0025663790001999587
+DEBUG:root:Time no. 13 is 0.002609688999655191
+DEBUG:root:Time no. 14 is 0.002930930000729859
+DEBUG:root:Time no. 15 is 0.0030460900015896186
+DEBUG:root:Time no. 16 is 0.0033710679999785498
+DEBUG:root:Time no. 17 is 0.003735483000127715
+DEBUG:root:Time no. 18 is 0.004110621999643627
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated linear approximation
+DEBUG:root:Calculated square approximation
+DEBUG:root:Calculated cube approximation
+DEBUG:root:Calculated logarithmic approximation
+DEBUG:root:Calculated n_logarithmic approximation
+DEBUG:root:Errors: [0.0011011240944312918, 9.2495540225993918e-05, 0.00017681457315569225, 0.00033589034158743546, 0.00044699217253311221, 6.1138163619285841e-05]
+DEBUG:root:Complexity: O(Nlog(N))
+DEBUG:root:Function: a*xlogx + b
+DEBUG:root:Reverse function: reverse does not exist
+DEBUG:root:Finished
