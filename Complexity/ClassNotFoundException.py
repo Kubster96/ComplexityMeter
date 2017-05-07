@@ -1,2 +1,2 @@
-class ClassNotFoundException(Exception):
+class ClassNotFoundException(AttributeError):
     pass

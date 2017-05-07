@@ -1,13 +1,16 @@
 import numpy
 import timeit
 import matplotlib.pyplot as plt
-from random import randint
-import tkinter
 import logging
 from argparse import ArgumentParser
-import math
-import Complexity.ClassNotFoundException
+import time
+
 # Loads module of the class and the class
+
+
+class ClassNotFoundException(Exception):
+    def __init__(self, message):
+        super().__init__(message)
 
 
 eny = [25, 50, 75, 100, 125, 150, 175, 200, 250, 275, 300, 325, 350, 375, 400, 425, 450, 475, 500]
@@ -40,15 +43,16 @@ rev_functions = ["x = a ",
 
 
 def my_import(name):
-    components = name.split('.')
-    mod = __import__(components[0])
-    for comp in components[1:]:
-        mod = getattr(mod, comp)
-    if mod is None:
-        raise Complexity.ClassNotFoundException
-    return mod
+    try:
+        components = name.split('.')
+        mod = __import__(components[0])
+        for comp in components[1:]:
+            mod = getattr(mod, comp)
 
-# TO DO tutaj bedzie mierzenie czasów
+    except(ImportError, AttributeError):
+        raise ClassNotFoundException("Class not found")
+
+    return mod
 
 
 # approximate function and all functions with avg error
@@ -74,11 +78,11 @@ def cube_function(x):
 
 
 def log_function(x):
-    return math.log2(x)
+    return numpy.log2(x)
 
 
 def nlogn_function(x):
-    return x*math.log2(x)
+    return x*numpy.log2(x)
 
 
 def ultimate_avg_error(function, factors, x, y):
@@ -107,13 +111,16 @@ parser.add_argument('class_module_name', help='Path to the class (something.some
                                               ' class must inherit from template class', type=str)
 args = parser.parse_args()
 
+
 try:
     my_class = my_import(args.class_module_name)
     my_object = my_class()
 
 except ClassNotFoundException:
-    logging.info("ClassNotFoundException occurred")
+    print("Class not found")
+    logging.info("Class not found")
     exit()
+
 
 logging.debug("Created an object of my_class")
 
@@ -125,6 +132,11 @@ for n in range(0, len(eny)):
     t = timer.timeit(number=100)
     times.append(t)
     logging.debug("Time no. " + str(n) + " is " + str(t))
+
+    if time.process_time() > 30.0:
+        print("Limit time passed")
+        eny = eny[:len(times)]
+        break
 
 
 coefficients.append(approximate(eny, times, 0))
@@ -139,21 +151,6 @@ coefficients.append(approximate(numpy.log2(eny), times, 1))
 logging.debug("Calculated logarithmic approximation")
 coefficients.append(approximate(eny*numpy.log2(eny), times, 1))
 logging.debug("Calculated n_logarithmic approximation")
-
-# for i in range(0, len(eny)):
-#     something.append((square[0] * eny[i] ** 2 + square[1]))
-#     something2.append((cube[0] * eny[i] ** 3 + cube[1]))
-#     something3.append(n_logarithmic[0]*eny[i]*numpy.log2(eny[i]) + n_logarithmic[1])
-#
-# print(eny, len(eny))
-# print(something, len(something))
-#
-# plt.plot(eny, times, 'ro')
-# plt.plot(eny, something)
-# plt.plot(eny, something2)
-# plt.plot(eny, something3)
-# plt.show()
-
 
 errors.append(ultimate_avg_error(constant_function, coefficients[0], eny, times))
 errors.append(ultimate_avg_error(linear_function, coefficients[1], eny, times))
@@ -182,3 +179,18 @@ logging.debug("Function: " + functions[index])
 logging.debug("Reverse function: " + rev_functions[index])
 
 logging.debug("Finished")
+
+# this was for testing approximated functions
+# for i in range(0, len(eny)):
+#     something.append((square[0] * eny[i] ** 2 + square[1]))
+#     something2.append((cube[0] * eny[i] ** 3 + cube[1]))
+#     something3.append(n_logarithmic[0]*eny[i]*numpy.log2(eny[i]) + n_logarithmic[1])
+#
+# print(eny, len(eny))
+# print(something, len(something))
+#
+# plt.plot(eny, times, 'ro')
+# plt.plot(eny, something)
+# plt.plot(eny, something2)
+# plt.plot(eny, something3)
+# plt.show()
