@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import logging
 from argparse import ArgumentParser
 import time
-
 # Loads module of the class and the class
 
 
