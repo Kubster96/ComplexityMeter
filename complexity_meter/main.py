@@ -161,7 +161,7 @@ errors.append(ultimate_avg_error(nlogn_function, coefficients[5], eny, times))
 logging.debug("Errors: " + str(errors))
 
 index = errors.index(min(errors))
-print("Complexity: " + complexity[index])
+print("complexity_meter: " + complexity[index])
 print("Function: " + functions[index])
 print("Reverse function: " + rev_functions[index])
 print("Coefficients: ")
@@ -173,7 +173,7 @@ if len(coefficients[index]) == 2:
 else:
     print("a: " + str(coefficients[index][0]))
 
-logging.debug("Complexity: " + complexity[index])
+logging.debug("complexity_meter: " + complexity[index])
 logging.debug("Function: " + functions[index])
 logging.debug("Reverse function: " + rev_functions[index])
 
