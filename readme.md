@@ -1,3 +1,3 @@
-# Complexity 
+# ComplexityMeter
 
-Program determining the complexity of given algorithm
+Program measuring the complexity of given algorithm
